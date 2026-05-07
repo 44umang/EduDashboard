@@ -79,4 +79,4 @@ Frontend assignment implementation for a role-based educational content broadcas
 - Public GitHub repository
 - README with setup steps
 - Frontend-notes.txt
-- Deployment link
+- Deployment link:-https://edudashboard-app.vercel.app
